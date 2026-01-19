@@ -73,3 +73,7 @@ footer {
   color: #666;
   font-size: 0.85em;
 }
+
+canvas {
+  box-shadow: 0 0 40px rgba(0,0,0,0.8);
+}
